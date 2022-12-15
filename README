@@ -1,0 +1,1834 @@
+Origin
+  https://api.github.com/emojis
+
+0001 :hash: Keycap: #
+0002 :asterisk: Keycap: *
+0003 :zero: Keycap: 0
+0004 :one: Keycap: 1
+0005 :two: Keycap: 2
+0006 :three: Keycap: 3
+0007 :four: Keycap: 4
+0008 :five: Keycap: 5
+0009 :six: Keycap: 6
+0010 :seven: Keycap: 7
+0011 :eight: Keycap: 8
+0012 :nine: Keycap: 9
+0013 :keycap_ten: Keycap: 10
+0014 :capital_abcd: Input latin uppercase
+0015 :abcd: Input latin lowercase
+0016 :1234: Input numbers
+0017 :symbols: Input symbols
+0018 :abc: Input latin letters
+0019 :copyright: Copyright
+0020 :registered: Registered
+0021 :mahjong: Mahjong red dragon
+0022 :black_joker: Joker
+0023 :a: A button (blood type)
+0024 :b: B button (blood type)
+0025 :o2: O button (blood type)
+0026 :parking: P button
+0027 :ab: AB button (blood type)
+0028 :cl: CL button
+0029 :cool: COOL button
+0030 :free: FREE button
+0031 :id: ID button
+0032 :new: NEW button
+0033 :ng: NG button
+0034 :ok: OK button
+0035 :sos: SOS button
+0036 :up: UP! button
+0037 :vs: VS button
+0038 :ascension_island: Flag: Ascension Island
+0039 :andorra: Flag: Andorra
+0040 :united_arab_emirates: Flag: United Arab Emirates
+0041 :afghanistan: Flag: Afghanistan
+0042 :antigua_barbuda: Flag: Antigua; Barbuda
+0043 :anguilla: Flag: Anguilla
+0044 :albania: Flag: Albania
+0045 :armenia: Flag: Armenia
+0046 :angola: Flag: Angola
+0047 :antarctica: Flag: Antarctica
+0048 :argentina: Flag: Argentina
+0049 :american_samoa: Flag: American Samoa
+0050 :austria: Flag: Austria
+0051 :australia: Flag: Australia
+0052 :aruba: Flag: Aruba
+0053 :aland_islands: Flag: Åland Islands
+0054 :azerbaijan: Flag: Azerbaijan
+0055 :bosnia_herzegovina: Flag: Bosnia; Herzegovina
+0056 :barbados: Flag: Barbados
+0057 :bangladesh: Flag: Bangladesh
+0058 :belgium: Flag: Belgium
+0059 :burkina_faso: Flag: Burkina Faso
+0060 :bulgaria: Flag: Bulgaria
+0061 :bahrain: Flag: Bahrain
+0062 :burundi: Flag: Burundi
+0063 :benin: Flag: Benin
+0064 :st_barthelemy: Flag: St. Barthélemy
+0065 :bermuda: Flag: Bermuda
+0066 :brunei: Flag: Brunei
+0067 :bolivia: Flag: Bolivia
+0068 :caribbean_netherlands: Flag: Caribbean Netherlands
+0069 :brazil: Flag: Brazil
+0070 :bahamas: Flag: Bahamas
+0071 :bhutan: Flag: Bhutan
+0072 :bouvet_island: Flag: Bouvet Island
+0073 :botswana: Flag: Botswana
+0074 :belarus: Flag: Belarus
+0075 :belize: Flag: Belize
+0076 :canada: Flag: Canada
+0077 :cocos_islands: Flag: Cocos (Keeling) Islands
+0078 :congo_kinshasa: Flag: Congo - Kinshasa
+0079 :central_african_republic: Flag: Central African Republic
+0080 :congo_brazzaville: Flag: Congo - Brazzaville
+0081 :switzerland: Flag: Switzerland
+0082 :cote_divoire: Flag: Côte d’Ivoire
+0083 :cook_islands: Flag: Cook Islands
+0084 :chile: Flag: Chile
+0085 :cameroon: Flag: Cameroon
+0086 :cn: Flag: China
+0087 :colombia: Flag: Colombia
+0088 :clipperton_island: Flag: Clipperton Island
+0089 :costa_rica: Flag: Costa Rica
+0090 :cuba: Flag: Cuba
+0091 :cape_verde: Flag: Cape Verde
+0092 :curacao: Flag: Curaçao
+0093 :christmas_island: Flag: Christmas Island
+0094 :cyprus: Flag: Cyprus
+0095 :czech_republic: Flag: Czechia
+0096 :de: Flag: Germany
+0097 :diego_garcia: Flag: Diego Garcia
+0098 :djibouti: Flag: Djibouti
+0099 :denmark: Flag: Denmark
+0100 :dominica: Flag: Dominica
+0101 :dominican_republic: Flag: Dominican Republic
+0102 :algeria: Flag: Algeria
+0103 :ceuta_melilla: Flag: Ceuta; Melilla
+0104 :ecuador: Flag: Ecuador
+0105 :estonia: Flag: Estonia
+0106 :egypt: Flag: Egypt
+0107 :western_sahara: Flag: Western Sahara
+0108 :eritrea: Flag: Eritrea
+0109 :es: Flag: Spain
+0110 :ethiopia: Flag: Ethiopia
+0111 :european_union: Flag: European Union
+0112 :finland: Flag: Finland
+0113 :fiji: Flag: Fiji
+0114 :falkland_islands: Flag: Falkland Islands
+0115 :micronesia: Flag: Micronesia
+0116 :faroe_islands: Flag: Faroe Islands
+0117 :fr: Flag: France
+0118 :gabon: Flag: Gabon
+0119 :uk: Flag: United Kingdom
+0120 :grenada: Flag: Grenada
+0121 :georgia: Flag: Georgia
+0122 :french_guiana: Flag: French Guiana
+0123 :guernsey: Flag: Guernsey
+0124 :ghana: Flag: Ghana
+0125 :gibraltar: Flag: Gibraltar
+0126 :greenland: Flag: Greenland
+0127 :gambia: Flag: Gambia
+0128 :guinea: Flag: Guinea
+0129 :guadeloupe: Flag: Guadeloupe
+0130 :equatorial_guinea: Flag: Equatorial Guinea
+0131 :greece: Flag: Greece
+0132 :south_georgia_south_sandwich_islands: Flag: South Georgia; South Sandwich Islands
+0133 :guatemala: Flag: Guatemala
+0134 :guam: Flag: Guam
+0135 :guinea_bissau: Flag: Guinea-Bissau
+0136 :guyana: Flag: Guyana
+0137 :hong_kong: Flag: Hong Kong SAR China
+0138 :heard_mcdonald_islands: Flag: Heard; McDonald Islands
+0139 :honduras: Flag: Honduras
+0140 :croatia: Flag: Croatia
+0141 :haiti: Flag: Haiti
+0142 :hungary: Flag: Hungary
+0143 :canary_islands: Flag: Canary Islands
+0144 :indonesia: Flag: Indonesia
+0145 :ireland: Flag: Ireland
+0146 :israel: Flag: Israel
+0147 :isle_of_man: Flag: Isle of Man
+0148 :india: Flag: India
+0149 :british_indian_ocean_territory: Flag: British Indian Ocean Territory
+0150 :iraq: Flag: Iraq
+0151 :iran: Flag: Iran
+0152 :iceland: Flag: Iceland
+0153 :it: Flag: Italy
+0154 :jersey: Flag: Jersey
+0155 :jamaica: Flag: Jamaica
+0156 :jordan: Flag: Jordan
+0157 :jp: Flag: Japan
+0158 :kenya: Flag: Kenya
+0159 :kyrgyzstan: Flag: Kyrgyzstan
+0160 :cambodia: Flag: Cambodia
+0161 :kiribati: Flag: Kiribati
+0162 :comoros: Flag: Comoros
+0163 :st_kitts_nevis: Flag: St. Kitts; Nevis
+0164 :north_korea: Flag: North Korea
+0165 :kr: Flag: South Korea
+0166 :kuwait: Flag: Kuwait
+0167 :cayman_islands: Flag: Cayman Islands
+0168 :kazakhstan: Flag: Kazakhstan
+0169 :laos: Flag: Laos
+0170 :lebanon: Flag: Lebanon
+0171 :st_lucia: Flag: St. Lucia
+0172 :liechtenstein: Flag: Liechtenstein
+0173 :sri_lanka: Flag: Sri Lanka
+0174 :liberia: Flag: Liberia
+0175 :lesotho: Flag: Lesotho
+0176 :lithuania: Flag: Lithuania
+0177 :luxembourg: Flag: Luxembourg
+0178 :latvia: Flag: Latvia
+0179 :libya: Flag: Libya
+0180 :morocco: Flag: Morocco
+0181 :monaco: Flag: Monaco
+0182 :moldova: Flag: Moldova
+0183 :montenegro: Flag: Montenegro
+0184 :st_martin: Flag: St. Martin
+0185 :madagascar: Flag: Madagascar
+0186 :marshall_islands: Flag: Marshall Islands
+0187 :macedonia: Flag: North Macedonia
+0188 :mali: Flag: Mali
+0189 :myanmar: Flag: Myanmar (Burma)
+0190 :mongolia: Flag: Mongolia
+0191 :macau: Flag: Macao SAR China
+0192 :northern_mariana_islands: Flag: Northern Mariana Islands
+0193 :martinique: Flag: Martinique
+0194 :mauritania: Flag: Mauritania
+0195 :montserrat: Flag: Montserrat
+0196 :malta: Flag: Malta
+0197 :mauritius: Flag: Mauritius
+0198 :maldives: Flag: Maldives
+0199 :malawi: Flag: Malawi
+0200 :mexico: Flag: Mexico
+0201 :malaysia: Flag: Malaysia
+0202 :mozambique: Flag: Mozambique
+0203 :namibia: Flag: Namibia
+0204 :new_caledonia: Flag: New Caledonia
+0205 :niger: Flag: Niger
+0206 :norfolk_island: Flag: Norfolk Island
+0207 :nigeria: Flag: Nigeria
+0208 :nicaragua: Flag: Nicaragua
+0209 :netherlands: Flag: Netherlands
+0210 :norway: Flag: Norway
+0211 :nepal: Flag: Nepal
+0212 :nauru: Flag: Nauru
+0213 :niue: Flag: Niue
+0214 :new_zealand: Flag: New Zealand
+0215 :oman: Flag: Oman
+0216 :panama: Flag: Panama
+0217 :peru: Flag: Peru
+0218 :french_polynesia: Flag: French Polynesia
+0219 :papua_new_guinea: Flag: Papua New Guinea
+0220 :philippines: Flag: Philippines
+0221 :pakistan: Flag: Pakistan
+0222 :poland: Flag: Poland
+0223 :st_pierre_miquelon: Flag: St. Pierre; Miquelon
+0224 :pitcairn_islands: Flag: Pitcairn Islands
+0225 :puerto_rico: Flag: Puerto Rico
+0226 :palestinian_territories: Flag: Palestinian Territories
+0227 :portugal: Flag: Portugal
+0228 :palau: Flag: Palau
+0229 :paraguay: Flag: Paraguay
+0230 :qatar: Flag: Qatar
+0231 :reunion: Flag: Réunion
+0232 :romania: Flag: Romania
+0233 :serbia: Flag: Serbia
+0234 :ru: Flag: Russia
+0235 :rwanda: Flag: Rwanda
+0236 :saudi_arabia: Flag: Saudi Arabia
+0237 :solomon_islands: Flag: Solomon Islands
+0238 :seychelles: Flag: Seychelles
+0239 :sudan: Flag: Sudan
+0240 :sweden: Flag: Sweden
+0241 :singapore: Flag: Singapore
+0242 :st_helena: Flag: St. Helena
+0243 :slovenia: Flag: Slovenia
+0244 :svalbard_jan_mayen: Flag: Svalbard; Jan Mayen
+0245 :slovakia: Flag: Slovakia
+0246 :sierra_leone: Flag: Sierra Leone
+0247 :san_marino: Flag: San Marino
+0248 :senegal: Flag: Senegal
+0249 :somalia: Flag: Somalia
+0250 :suriname: Flag: Suriname
+0251 :south_sudan: Flag: South Sudan
+0252 :sao_tome_principe: Flag: São Tomé; Príncipe
+0253 :el_salvador: Flag: El Salvador
+0254 :sint_maarten: Flag: Sint Maarten
+0255 :syria: Flag: Syria
+0256 :swaziland: Flag: Eswatini
+0257 :tristan_da_cunha: Flag: Tristan da Cunha
+0258 :turks_caicos_islands: Flag: Turks; Caicos Islands
+0259 :chad: Flag: Chad
+0260 :french_southern_territories: Flag: French Southern Territories
+0261 :togo: Flag: Togo
+0262 :thailand: Flag: Thailand
+0263 :tajikistan: Flag: Tajikistan
+0264 :tokelau: Flag: Tokelau
+0265 :timor_leste: Flag: Timor-Leste
+0266 :turkmenistan: Flag: Turkmenistan
+0267 :tunisia: Flag: Tunisia
+0268 :tonga: Flag: Tonga
+0269 :tr: Flag: Turkey
+0270 :trinidad_tobago: Flag: Trinidad; Tobago
+0271 :tuvalu: Flag: Tuvalu
+0272 :taiwan: Flag: Taiwan
+0273 :tanzania: Flag: Tanzania
+0274 :ukraine: Flag: Ukraine
+0275 :uganda: Flag: Uganda
+0276 :us_outlying_islands: Flag: U.S. Outlying Islands
+0277 :united_nations: Flag: United Nations
+0278 :us: Flag: United States
+0279 :uruguay: Flag: Uruguay
+0280 :uzbekistan: Flag: Uzbekistan
+0281 :vatican_city: Flag: Vatican City
+0282 :st_vincent_grenadines: Flag: St. Vincent; Grenadines
+0283 :venezuela: Flag: Venezuela
+0284 :british_virgin_islands: Flag: British Virgin Islands
+0285 :us_virgin_islands: Flag: U.S. Virgin Islands
+0286 :vietnam: Flag: Vietnam
+0287 :vanuatu: Flag: Vanuatu
+0288 :wallis_futuna: Flag: Wallis; Futuna
+0289 :samoa: Flag: Samoa
+0290 :kosovo: Flag: Kosovo
+0291 :yemen: Flag: Yemen
+0292 :mayotte: Flag: Mayotte
+0293 :south_africa: Flag: South Africa
+0294 :zambia: Flag: Zambia
+0295 :zimbabwe: Flag: Zimbabwe
+0296 :koko: Japanese “here” button
+0297 :sa: Japanese “service charge” button
+0298 :u7121: Japanese “free of charge” button
+0299 :u6307: Japanese “reserved” button
+0300 :u7981: Japanese “prohibited” button
+0301 :u7a7a: Japanese “vacancy” button
+0302 :u5408: Japanese “passing grade” button
+0303 :u6e80: Japanese “no vacancy” button
+0304 :u6709: Japanese “not free of charge” button
+0305 :u6708: Japanese “monthly amount” button
+0306 :u7533: Japanese “application” button
+0307 :u5272: Japanese “discount” button
+0308 :u55b6: Japanese “open for business” button
+0309 :ideograph_advantage: Japanese “bargain” button
+0310 :accept: Japanese “acceptable” button
+0311 :cyclone: Cyclone
+0312 :foggy: Foggy
+0313 :closed_umbrella: Closed umbrella
+0314 :night_with_stars: Night with stars
+0315 :sunrise_over_mountains: Sunrise over mountains
+0316 :sunrise: Sunrise
+0317 :city_sunset: Cityscape at dusk
+0318 :city_sunrise: Sunset
+0319 :rainbow: Rainbow
+0320 :bridge_at_night: Bridge at night
+0321 :ocean: Water wave
+0322 :volcano: Volcano
+0323 :milky_way: Milky way
+0324 :earth_africa: Globe showing Europe-Africa
+0325 :earth_americas: Globe showing Americas
+0326 :earth_asia: Globe showing Asia-Australia
+0327 :globe_with_meridians: Globe with meridians
+0328 :new_moon: New moon
+0329 :waxing_crescent_moon: Waxing crescent moon
+0330 :first_quarter_moon: First quarter moon
+0331 :waxing_gibbous_moon: Waxing gibbous moon
+0332 :full_moon: Full moon
+0333 :waning_gibbous_moon: Waning gibbous moon
+0334 :last_quarter_moon: Last quarter moon
+0335 :waning_crescent_moon: Waning crescent moon
+0336 :crescent_moon: Crescent moon
+0337 :new_moon_with_face: New moon face
+0338 :first_quarter_moon_with_face: First quarter moon face
+0339 :last_quarter_moon_with_face: Last quarter moon face
+0340 :full_moon_with_face: Full moon face
+0341 :sun_with_face: Sun with face
+0342 :star2: Glowing star
+0343 :stars: Shooting star
+0344 :thermometer: Thermometer
+0345 :sun_behind_small_cloud: Sun behind small cloud
+0346 :sun_behind_large_cloud: Sun behind large cloud
+0347 :sun_behind_rain_cloud: Sun behind rain cloud
+0348 :cloud_with_rain: Cloud with rain
+0349 :cloud_with_snow: Cloud with snow
+0350 :cloud_with_lightning: Cloud with lightning
+0351 :tornado: Tornado
+0352 :fog: Fog
+0353 :wind_face: Wind face
+0354 :hotdog: Hot dog
+0355 :taco: Taco
+0356 :burrito: Burrito
+0357 :chestnut: Chestnut
+0358 :seedling: Seedling
+0359 :evergreen_tree: Evergreen tree
+0360 :deciduous_tree: Deciduous tree
+0361 :palm_tree: Palm tree
+0362 :cactus: Cactus
+0363 :hot_pepper: Hot pepper
+0364 :tulip: Tulip
+0365 :cherry_blossom: Cherry blossom
+0366 :rose: Rose
+0367 :hibiscus: Hibiscus
+0368 :sunflower: Sunflower
+0369 :blossom: Blossom
+0370 :corn: Ear of corn
+0371 :ear_of_rice: Sheaf of rice
+0372 :herb: Herb
+0373 :four_leaf_clover: Four leaf clover
+0374 :maple_leaf: Maple leaf
+0375 :fallen_leaf: Fallen leaf
+0376 :leaves: Leaf fluttering in wind
+0377 :mushroom: Mushroom
+0378 :tomato: Tomato
+0379 :eggplant: Eggplant
+0380 :grapes: Grapes
+0381 :melon: Melon
+0382 :watermelon: Watermelon
+0383 :orange: Tangerine
+0384 :lemon: Lemon
+0385 :banana: Banana
+0386 :pineapple: Pineapple
+0387 :apple: Red apple
+0388 :green_apple: Green apple
+0389 :pear: Pear
+0390 :peach: Peach
+0391 :cherries: Cherries
+0392 :strawberry: Strawberry
+0393 :hamburger: Hamburger
+0394 :pizza: Pizza
+0395 :meat_on_bone: Meat on bone
+0396 :poultry_leg: Poultry leg
+0397 :rice_cracker: Rice cracker
+0398 :rice_ball: Rice ball
+0399 :rice: Cooked rice
+0400 :curry: Curry rice
+0401 :ramen: Steaming bowl
+0402 :spaghetti: Spaghetti
+0403 :bread: Bread
+0404 :fries: French fries
+0405 :sweet_potato: Roasted sweet potato
+0406 :dango: Dango
+0407 :oden: Oden
+0408 :sushi: Sushi
+0409 :fried_shrimp: Fried shrimp
+0410 :fish_cake: Fish cake with swirl
+0411 :icecream: Soft ice cream
+0412 :shaved_ice: Shaved ice
+0413 :ice_cream: Ice cream
+0414 :doughnut: Doughnut
+0415 :cookie: Cookie
+0416 :chocolate_bar: Chocolate bar
+0417 :candy: Candy
+0418 :lollipop: Lollipop
+0419 :custard: Custard
+0420 :honey_pot: Honey pot
+0421 :cake: Shortcake
+0422 :bento: Bento box
+0423 :stew: Pot of food
+0424 :fried_egg: Cooking
+0425 :fork_and_knife: Fork and knife
+0426 :tea: Teacup without handle
+0427 :sake: Sake
+0428 :wine_glass: Wine glass
+0429 :cocktail: Cocktail glass
+0430 :tropical_drink: Tropical drink
+0431 :beer: Beer mug
+0432 :beers: Clinking beer mugs
+0433 :baby_bottle: Baby bottle
+0434 :plate_with_cutlery: Fork and knife with plate
+0435 :champagne: Bottle with popping cork
+0436 :popcorn: Popcorn
+0437 :ribbon: Ribbon
+0438 :gift: Wrapped gift
+0439 :birthday: Birthday cake
+0440 :jack_o_lantern: Jack-o-lantern
+0441 :christmas_tree: Christmas tree
+0442 :santa: Santa Claus
+0443 :fireworks: Fireworks
+0444 :sparkler: Sparkler
+0445 :balloon: Balloon
+0446 :tada: Party popper
+0447 :confetti_ball: Confetti ball
+0448 :tanabata_tree: Tanabata tree
+0449 :crossed_flags: Crossed flags
+0450 :bamboo: Pine decoration
+0451 :dolls: Japanese dolls
+0452 :flags: Carp streamer
+0453 :wind_chime: Wind chime
+0454 :rice_scene: Moon viewing ceremony
+0455 :school_satchel: Backpack
+0456 :mortar_board: Graduation cap
+0457 :medal_military: Military medal
+0458 :reminder_ribbon: Reminder ribbon
+0459 :studio_microphone: Studio microphone
+0460 :level_slider: Level slider
+0461 :control_knobs: Control knobs
+0462 :film_strip: Film frames
+0463 :tickets: Admission tickets
+0464 :carousel_horse: Carousel horse
+0465 :ferris_wheel: Ferris wheel
+0466 :roller_coaster: Roller coaster
+0467 :fishing_pole_and_fish: Fishing pole
+0468 :microphone: Microphone
+0469 :movie_camera: Movie camera
+0470 :cinema: Cinema
+0471 :headphones: Headphone
+0472 :art: Artist palette
+0473 :tophat: Top hat
+0474 :circus_tent: Circus tent
+0475 :ticket: Ticket
+0476 :clapper: Clapper board
+0477 :performing_arts: Performing arts
+0478 :video_game: Video game
+0479 :dart: Bullseye
+0480 :slot_machine: Slot machine
+0481 :8ball: Pool 8 ball
+0482 :game_die: Game die
+0483 :bowling: Bowling
+0484 :flower_playing_cards: Flower playing cards
+0485 :musical_note: Musical note
+0486 :notes: Musical notes
+0487 :saxophone: Saxophone
+0488 :guitar: Guitar
+0489 :musical_keyboard: Musical keyboard
+0490 :trumpet: Trumpet
+0491 :violin: Violin
+0492 :musical_score: Musical score
+0493 :running_shirt_with_sash: Running shirt
+0494 :tennis: Tennis
+0495 :ski: Skis
+0496 :basketball: Basketball
+0497 :checkered_flag: Chequered flag
+0498 :snowboarder: Snowboarder
+0499 :running: Person running
+0500 :running_woman: Woman running
+0501 :running_man: Man running
+0502 :surfer: Person surfing
+0503 :surfing_woman: Woman surfing
+0504 :surfing_man: Man surfing
+0505 :medal_sports: Sports medal
+0506 :trophy: Trophy
+0507 :horse_racing: Horse racing
+0508 :football: American football
+0509 :rugby_football: Rugby football
+0510 :swimmer: Person swimming
+0511 :swimming_woman: Woman swimming
+0512 :swimming_man: Man swimming
+0513 :weight_lifting: Person lifting weights
+0514 :weight_lifting_woman: Woman lifting weights
+0515 :weight_lifting_man: Man lifting weights
+0516 :golfing: Person golfing
+0517 :golfing_woman: Woman golfing
+0518 :golfing_man: Man golfing
+0519 :motorcycle: Motorcycle
+0520 :racing_car: Racing car
+0521 :cricket_game: Cricket game
+0522 :volleyball: Volleyball
+0523 :field_hockey: Field hockey
+0524 :ice_hockey: Ice hockey
+0525 :ping_pong: Ping pong
+0526 :mountain_snow: Snow-capped mountain
+0527 :camping: Camping
+0528 :beach_umbrella: Beach with umbrella
+0529 :building_construction: Building construction
+0530 :houses: Houses
+0531 :cityscape: Cityscape
+0532 :derelict_house: Derelict house
+0533 :classical_building: Classical building
+0534 :desert: Desert
+0535 :desert_island: Desert island
+0536 :national_park: National park
+0537 :stadium: Stadium
+0538 :house: House
+0539 :house_with_garden: House with garden
+0540 :office: Office building
+0541 :post_office: Japanese post office
+0542 :european_post_office: Post office
+0543 :hospital: Hospital
+0544 :bank: Bank
+0545 :atm: ATM sign
+0546 :hotel: Hotel
+0547 :love_hotel: Love hotel
+0548 :convenience_store: Convenience store
+0549 :school: School
+0550 :department_store: Department store
+0551 :factory: Factory
+0552 :lantern: Red paper lantern
+0553 :japanese_castle: Japanese castle
+0554 :european_castle: Castle
+0555 :white_flag: White flag
+0556 :rainbow_flag: Rainbow flag
+0557 :transgender_flag: Transgender flag
+0558 :black_flag: Black flag
+0559 :pirate_flag: Pirate flag
+0560 :england: Flag: England
+0561 :scotland: Flag: Scotland
+0562 :wales: Flag: Wales
+0563 :rosette: Rosette
+0564 :label: Label
+0565 :badminton: Badminton
+0566 :bow_and_arrow: Bow and arrow
+0567 :amphora: Amphora
+0568 :rat: Rat
+0569 :mouse2: Mouse
+0570 :ox: Ox
+0571 :water_buffalo: Water buffalo
+0572 :cow2: Cow
+0573 :tiger2: Tiger
+0574 :leopard: Leopard
+0575 :rabbit2: Rabbit
+0576 :cat2: Cat
+0577 :black_cat: Black cat
+0578 :dragon: Dragon
+0579 :crocodile: Crocodile
+0580 :whale2: Whale
+0581 :snail: Snail
+0582 :snake: Snake
+0583 :racehorse: Horse
+0584 :ram: Ram
+0585 :goat: Goat
+0586 :sheep: Ewe
+0587 :monkey: Monkey
+0588 :rooster: Rooster
+0589 :chicken: Chicken
+0590 :dog2: Dog
+0591 :service_dog: Service dog
+0592 :pig2: Pig
+0593 :boar: Boar
+0594 :elephant: Elephant
+0595 :octopus: Octopus
+0596 :shell: Spiral shell
+0597 :bug: Bug
+0598 :ant: Ant
+0599 :bee: Honeybee
+0600 :lady_beetle: Lady beetle
+0601 :fish: Fish
+0602 :tropical_fish: Tropical fish
+0603 :blowfish: Blowfish
+0604 :turtle: Turtle
+0605 :hatching_chick: Hatching chick
+0606 :baby_chick: Baby chick
+0607 :hatched_chick: Front-facing baby chick
+0608 :bird: Bird
+0609 :penguin: Penguin
+0610 :koala: Koala
+0611 :poodle: Poodle
+0612 :dromedary_camel: Camel
+0613 :camel: Two-hump camel
+0614 :dolphin: Dolphin
+0615 :mouse: Mouse face
+0616 :cow: Cow face
+0617 :tiger: Tiger face
+0618 :rabbit: Rabbit face
+0619 :cat: Cat face
+0620 :dragon_face: Dragon face
+0621 :whale: Spouting whale
+0622 :horse: Horse face
+0623 :monkey_face: Monkey face
+0624 :dog: Dog face
+0625 :pig: Pig face
+0626 :frog: Frog
+0627 :hamster: Hamster
+0628 :wolf: Wolf
+0629 :bear: Bear
+0630 :polar_bear: Polar bear
+0631 :panda_face: Panda
+0632 :pig_nose: Pig nose
+0633 :paw_prints: Paw prints
+0634 :chipmunk: Chipmunk
+0635 :eyes: Eyes
+0636 :eye: Eye
+0637 :eye_speech_bubble: Eye in speech bubble
+0638 :ear: Ear
+0639 :nose: Nose
+0640 :lips: Mouth
+0641 :tongue: Tongue
+0642 :point_up_2: Backhand index pointing up
+0643 :point_down: Backhand index pointing down
+0644 :point_left: Backhand index pointing left
+0645 :point_right: Backhand index pointing right
+0646 :facepunch: Oncoming fist
+0647 :wave: Waving hand
+0648 :ok_hand: OK hand
+0649 :+1: Thumbs up
+0650 :-1: Thumbs down
+0651 :clap: Clapping hands
+0652 :open_hands: Open hands
+0653 :crown: Crown
+0654 :womans_hat: Woman’s hat
+0655 :eyeglasses: Glasses
+0656 :necktie: Necktie
+0657 :shirt: T-shirt
+0658 :jeans: Jeans
+0659 :dress: Dress
+0660 :kimono: Kimono
+0661 :bikini: Bikini
+0662 :womans_clothes: Woman’s clothes
+0663 :purse: Purse
+0664 :handbag: Handbag
+0665 :pouch: Clutch bag
+0666 :shoe: Man’s shoe
+0667 :athletic_shoe: Running shoe
+0668 :high_heel: High-heeled shoe
+0669 :sandal: Woman’s sandal
+0670 :boot: Woman’s boot
+0671 :footprints: Footprints
+0672 :bust_in_silhouette: Bust in silhouette
+0673 :busts_in_silhouette: Busts in silhouette
+0674 :boy: Boy
+0675 :girl: Girl
+0676 :man: Man
+0677 :man_farmer: Man farmer
+0678 :man_cook: Man cook
+0679 :man_feeding_baby: Man feeding baby
+0680 :man_student: Man student
+0681 :man_singer: Man singer
+0682 :man_artist: Man artist
+0683 :man_teacher: Man teacher
+0684 :man_factory_worker: Man factory worker
+0685 :family_man_boy: Family: man, boy
+0686 :family_man_boy_boy: Family: man, boy, boy
+0687 :family_man_girl: Family: man, girl
+0688 :family_man_girl_boy: Family: man, girl, boy
+0689 :family_man_girl_girl: Family: man, girl, girl
+0690 :family_man_man_boy: Family: man, man, boy
+0691 :family_man_man_boy_boy: Family: man, man, boy, boy
+0692 :family_man_man_girl: Family: man, man, girl
+0693 :family_man_man_girl_boy: Family: man, man, girl, boy
+0694 :family_man_man_girl_girl: Family: man, man, girl, girl
+0695 :family_man_woman_boy: Family: man, woman, boy
+0696 :family_man_woman_boy_boy: Family: man, woman, boy, boy
+0697 :family_man_woman_girl: Family: man, woman, girl
+0698 :family_man_woman_girl_boy: Family: man, woman, girl, boy
+0699 :family_man_woman_girl_girl: Family: man, woman, girl, girl
+0700 :man_technologist: Man technologist
+0701 :man_office_worker: Man office worker
+0702 :man_mechanic: Man mechanic
+0703 :man_scientist: Man scientist
+0704 :man_astronaut: Man astronaut
+0705 :man_firefighter: Man firefighter
+0706 :man_with_probing_cane: Man with white cane
+0707 :red_haired_man: Man: red hair
+0708 :curly_haired_man: Man: curly hair
+0709 :bald_man: Man: bald
+0710 :white_haired_man: Man: white hair
+0711 :man_in_motorized_wheelchair: Man in motorized wheelchair
+0712 :man_in_manual_wheelchair: Man in manual wheelchair
+0713 :man_health_worker: Man health worker
+0714 :man_judge: Man judge
+0715 :man_pilot: Man pilot
+0716 :couple_with_heart_man_man: Couple with heart: man, man
+0717 :couplekiss_man_man: Kiss: man, man
+0718 :woman: Woman
+0719 :woman_farmer: Woman farmer
+0720 :woman_cook: Woman cook
+0721 :woman_feeding_baby: Woman feeding baby
+0722 :woman_student: Woman student
+0723 :woman_singer: Woman singer
+0724 :woman_artist: Woman artist
+0725 :woman_teacher: Woman teacher
+0726 :woman_factory_worker: Woman factory worker
+0727 :family_woman_boy: Family: woman, boy
+0728 :family_woman_boy_boy: Family: woman, boy, boy
+0729 :family_woman_girl: Family: woman, girl
+0730 :family_woman_girl_boy: Family: woman, girl, boy
+0731 :family_woman_girl_girl: Family: woman, girl, girl
+0732 :family_woman_woman_boy: Family: woman, woman, boy
+0733 :family_woman_woman_boy_boy: Family: woman, woman, boy, boy
+0734 :family_woman_woman_girl: Family: woman, woman, girl
+0735 :family_woman_woman_girl_boy: Family: woman, woman, girl, boy
+0736 :family_woman_woman_girl_girl: Family: woman, woman, girl, girl
+0737 :woman_technologist: Woman technologist
+0738 :woman_office_worker: Woman office worker
+0739 :woman_mechanic: Woman mechanic
+0740 :woman_scientist: Woman scientist
+0741 :woman_astronaut: Woman astronaut
+0742 :woman_firefighter: Woman firefighter
+0743 :woman_with_probing_cane: Woman with white cane
+0744 :red_haired_woman: Woman: red hair
+0745 :curly_haired_woman: Woman: curly hair
+0746 :bald_woman: Woman: bald
+0747 :white_haired_woman: Woman: white hair
+0748 :woman_in_motorized_wheelchair: Woman in motorized wheelchair
+0749 :woman_in_manual_wheelchair: Woman in manual wheelchair
+0750 :woman_health_worker: Woman health worker
+0751 :woman_judge: Woman judge
+0752 :woman_pilot: Woman pilot
+0753 :couple_with_heart_woman_man: Couple with heart: woman, man
+0754 :couple_with_heart_woman_woman: Couple with heart: woman, woman
+0755 :couplekiss_man_woman: Kiss: woman, man
+0756 :couplekiss_woman_woman: Kiss: woman, woman
+0757 :family: Family
+0758 :couple: Woman and man holding hands
+0759 :two_men_holding_hands: Men holding hands
+0760 :two_women_holding_hands: Women holding hands
+0761 :police_officer: Police officer
+0762 :policewoman: Woman police officer
+0763 :policeman: Man police officer
+0764 :dancers: People with bunny ears
+0765 :dancing_women: Women with bunny ears
+0766 :dancing_men: Men with bunny ears
+0767 :person_with_veil: Person with veil
+0768 :woman_with_veil: Woman with veil
+0769 :man_with_veil: Man with veil
+0770 :blond_haired_person: Person: blond hair
+0771 :blond_haired_woman: Woman: blond hair
+0772 :blond_haired_man: Man: blond hair
+0773 :man_with_gua_pi_mao: Person with skullcap
+0774 :person_with_turban: Person wearing turban
+0775 :woman_with_turban: Woman wearing turban
+0776 :man_with_turban: Man wearing turban
+0777 :older_man: Old man
+0778 :older_woman: Old woman
+0779 :baby: Baby
+0780 :construction_worker: Construction worker
+0781 :construction_worker_woman: Woman construction worker
+0782 :construction_worker_man: Man construction worker
+0783 :princess: Princess
+0784 :japanese_ogre: Ogre
+0785 :japanese_goblin: Goblin
+0786 :ghost: Ghost
+0787 :angel: Baby angel
+0788 :alien: Alien
+0789 :space_invader: Alien monster
+0790 :imp: Angry face with horns
+0791 :skull: Skull
+0792 :tipping_hand_person: Person tipping hand
+0793 :tipping_hand_woman: Woman tipping hand
+0794 :tipping_hand_man: Man tipping hand
+0795 :guard: Guard
+0796 :guardswoman: Woman guard
+0797 :guardsman: Man guard
+0798 :woman_dancing: Woman dancing
+0799 :lipstick: Lipstick
+0800 :nail_care: Nail polish
+0801 :massage: Person getting massage
+0802 :massage_woman: Woman getting massage
+0803 :massage_man: Man getting massage
+0804 :haircut: Person getting haircut
+0805 :haircut_woman: Woman getting haircut
+0806 :haircut_man: Man getting haircut
+0807 :barber: Barber pole
+0808 :syringe: Syringe
+0809 :pill: Pill
+0810 :kiss: Kiss mark
+0811 :love_letter: Love letter
+0812 :ring: Ring
+0813 :gem: Gem stone
+0814 :couplekiss: Kiss
+0815 :bouquet: Bouquet
+0816 :couple_with_heart: Couple with heart
+0817 :wedding: Wedding
+0818 :heartbeat: Beating heart
+0819 :broken_heart: Broken heart
+0820 :two_hearts: Two hearts
+0821 :sparkling_heart: Sparkling heart
+0822 :heartpulse: Growing heart
+0823 :cupid: Heart with arrow
+0824 :blue_heart: Blue heart
+0825 :green_heart: Green heart
+0826 :yellow_heart: Yellow heart
+0827 :purple_heart: Purple heart
+0828 :gift_heart: Heart with ribbon
+0829 :revolving_hearts: Revolving hearts
+0830 :heart_decoration: Heart decoration
+0831 :diamond_shape_with_a_dot_inside: Diamond with a dot
+0832 :bulb: Light bulb
+0833 :anger: Anger symbol
+0834 :bomb: Bomb
+0835 :zzz: ZZZ
+0836 :collision: Collision
+0837 :sweat_drops: Sweat droplets
+0838 :droplet: Droplet
+0839 :dash: Dashing away
+0840 :shit: Pile of poo
+0841 :muscle: Flexed biceps
+0842 :dizzy: Dizzy
+0843 :speech_balloon: Speech balloon
+0844 :thought_balloon: Thought balloon
+0845 :white_flower: White flower
+0846 :100: Hundred points
+0847 :moneybag: Money bag
+0848 :currency_exchange: Currency exchange
+0849 :heavy_dollar_sign: Heavy dollar sign
+0850 :credit_card: Credit card
+0851 :yen: Yen banknote
+0852 :dollar: Dollar banknote
+0853 :euro: Euro banknote
+0854 :pound: Pound banknote
+0855 :money_with_wings: Money with wings
+0856 :chart: Chart increasing with yen
+0857 :seat: Seat
+0858 :computer: Laptop
+0859 :briefcase: Briefcase
+0860 :minidisc: Computer disk
+0861 :floppy_disk: Floppy disk
+0862 :cd: Optical disk
+0863 :dvd: Dvd
+0864 :file_folder: File folder
+0865 :open_file_folder: Open file folder
+0866 :page_with_curl: Page with curl
+0867 :page_facing_up: Page facing up
+0868 :date: Calendar
+0869 :calendar: Tear-off calendar
+0870 :card_index: Card index
+0871 :chart_with_upwards_trend: Chart increasing
+0872 :chart_with_downwards_trend: Chart decreasing
+0873 :bar_chart: Bar chart
+0874 :clipboard: Clipboard
+0875 :pushpin: Pushpin
+0876 :round_pushpin: Round pushpin
+0877 :paperclip: Paperclip
+0878 :straight_ruler: Straight ruler
+0879 :triangular_ruler: Triangular ruler
+0880 :bookmark_tabs: Bookmark tabs
+0881 :ledger: Ledger
+0882 :notebook: Notebook
+0883 :notebook_with_decorative_cover: Notebook with decorative cover
+0884 :closed_book: Closed book
+0885 :open_book: Open book
+0886 :green_book: Green book
+0887 :blue_book: Blue book
+0888 :orange_book: Orange book
+0889 :books: Books
+0890 :name_badge: Name badge
+0891 :scroll: Scroll
+0892 :memo: Memo
+0893 :telephone_receiver: Telephone receiver
+0894 :pager: Pager
+0895 :fax: Fax machine
+0896 :satellite: Satellite antenna
+0897 :loudspeaker: Loudspeaker
+0898 :mega: Megaphone
+0899 :outbox_tray: Outbox tray
+0900 :inbox_tray: Inbox tray
+0901 :package: Package
+0902 :email: E-mail
+0903 :incoming_envelope: Incoming envelope
+0904 :envelope_with_arrow: Envelope with arrow
+0905 :mailbox_closed: Closed mailbox with lowered flag
+0906 :mailbox: Closed mailbox with raised flag
+0907 :mailbox_with_mail: Open mailbox with raised flag
+0908 :mailbox_with_no_mail: Open mailbox with lowered flag
+0909 :postbox: Postbox
+0910 :postal_horn: Postal horn
+0911 :newspaper: Newspaper
+0912 :iphone: Mobile phone
+0913 :calling: Mobile phone with arrow
+0914 :vibration_mode: Vibration mode
+0915 :mobile_phone_off: Mobile phone off
+0916 :no_mobile_phones: No mobile phones
+0917 :signal_strength: Antenna bars
+0918 :camera: Camera
+0919 :camera_flash: Camera with flash
+0920 :video_camera: Video camera
+0921 :tv: Television
+0922 :radio: Radio
+0923 :vhs: Videocassette
+0924 :film_projector: Film projector
+0925 :prayer_beads: Prayer beads
+0926 :twisted_rightwards_arrows: Shuffle tracks button
+0927 :repeat: Repeat button
+0928 :repeat_one: Repeat single button
+0929 :arrows_clockwise: Clockwise vertical arrows
+0930 :arrows_counterclockwise: Counterclockwise arrows button
+0931 :low_brightness: Dim button
+0932 :high_brightness: Bright button
+0933 :mute: Muted speaker
+0934 :speaker: Speaker low volume
+0935 :sound: Speaker medium volume
+0936 :loud_sound: Speaker high volume
+0937 :battery: Battery
+0938 :electric_plug: Electric plug
+0939 :mag: Magnifying glass tilted left
+0940 :mag_right: Magnifying glass tilted right
+0941 :lock_with_ink_pen: Locked with pen
+0942 :closed_lock_with_key: Locked with key
+0943 :key: Key
+0944 :lock: Locked
+0945 :unlock: Unlocked
+0946 :bell: Bell
+0947 :no_bell: Bell with slash
+0948 :bookmark: Bookmark
+0949 :link: Link
+0950 :radio_button: Radio button
+0951 :back: BACK arrow
+0952 :end: END arrow
+0953 :on: ON! arrow
+0954 :soon: SOON arrow
+0955 :top: TOP arrow
+0956 :underage: No one under eighteen
+0957 :fire: Fire
+0958 :flashlight: Flashlight
+0959 :wrench: Wrench
+0960 :hammer: Hammer
+0961 :nut_and_bolt: Nut and bolt
+0962 :knife: Kitchen knife
+0963 :gun: Water pistol
+0964 :microscope: Microscope
+0965 :telescope: Telescope
+0966 :crystal_ball: Crystal ball
+0967 :six_pointed_star: Dotted six-pointed star
+0968 :beginner: Japanese symbol for beginner
+0969 :trident: Trident emblem
+0970 :black_square_button: Black square button
+0971 :white_square_button: White square button
+0972 :red_circle: Red circle
+0973 :large_blue_circle: Blue circle
+0974 :large_orange_diamond: Large orange diamond
+0975 :large_blue_diamond: Large blue diamond
+0976 :small_orange_diamond: Small orange diamond
+0977 :small_blue_diamond: Small blue diamond
+0978 :small_red_triangle: Red triangle pointed up
+0979 :small_red_triangle_down: Red triangle pointed down
+0980 :arrow_up_small: Upwards button
+0981 :arrow_down_small: Downwards button
+0982 :om: Om
+0983 :dove: Dove
+0984 :kaaba: Kaaba
+0985 :mosque: Mosque
+0986 :synagogue: Synagogue
+0987 :menorah: Menorah
+0988 :clock1: One o’clock
+0989 :clock2: Two o’clock
+0990 :clock3: Three o’clock
+0991 :clock4: Four o’clock
+0992 :clock5: Five o’clock
+0993 :clock6: Six o’clock
+0994 :clock7: Seven o’clock
+0995 :clock8: Eight o’clock
+0996 :clock9: Nine o’clock
+0997 :clock10: Ten o’clock
+0998 :clock11: Eleven o’clock
+0999 :clock12: Twelve o’clock
+1000 :clock130: One-thirty
+1001 :clock230: Two-thirty
+1002 :clock330: Three-thirty
+1003 :clock430: Four-thirty
+1004 :clock530: Five-thirty
+1005 :clock630: Six-thirty
+1006 :clock730: Seven-thirty
+1007 :clock830: Eight-thirty
+1008 :clock930: Nine-thirty
+1009 :clock1030: Ten-thirty
+1010 :clock1130: Eleven-thirty
+1011 :clock1230: Twelve-thirty
+1012 :candle: Candle
+1013 :mantelpiece_clock: Mantelpiece clock
+1014 :hole: Hole
+1015 :business_suit_levitating: Person in suit levitating
+1016 :detective: Detective
+1017 :female_detective: Woman detective
+1018 :male_detective: Man detective
+1019 :dark_sunglasses: Sunglasses
+1020 :spider: Spider
+1021 :spider_web: Spider web
+1022 :joystick: Joystick
+1023 :man_dancing: Man dancing
+1024 :paperclips: Linked paperclips
+1025 :pen: Pen
+1026 :fountain_pen: Fountain pen
+1027 :paintbrush: Paintbrush
+1028 :crayon: Crayon
+1029 :raised_hand_with_fingers_splayed: Hand with fingers splayed
+1030 :middle_finger: Middle finger
+1031 :vulcan_salute: Vulcan salute
+1032 :black_heart: Black heart
+1033 :desktop_computer: Desktop computer
+1034 :printer: Printer
+1035 :computer_mouse: Computer mouse
+1036 :trackball: Trackball
+1037 :framed_picture: Framed picture
+1038 :card_index_dividers: Card index dividers
+1039 :card_file_box: Card file box
+1040 :file_cabinet: File cabinet
+1041 :wastebasket: Wastebasket
+1042 :spiral_notepad: Spiral notepad
+1043 :spiral_calendar: Spiral calendar
+1044 :clamp: Clamp
+1045 :old_key: Old key
+1046 :newspaper_roll: Rolled-up newspaper
+1047 :dagger: Dagger
+1048 :speaking_head: Speaking head
+1049 :left_speech_bubble: Left speech bubble
+1050 :right_anger_bubble: Right anger bubble
+1051 :ballot_box: Ballot box with ballot
+1052 :world_map: World map
+1053 :mount_fuji: Mount fuji
+1054 :tokyo_tower: Tokyo tower
+1055 :statue_of_liberty: Statue of Liberty
+1056 :japan: Map of Japan
+1057 :moyai: Moai
+1058 :grinning: Grinning face
+1059 :grin: Beaming face with smiling eyes
+1060 :joy: Face with tears of joy
+1061 :smiley: Grinning face with big eyes
+1062 :smile: Grinning face with smiling eyes
+1063 :sweat_smile: Grinning face with sweat
+1064 :laughing: Grinning squinting face
+1065 :innocent: Smiling face with halo
+1066 :smiling_imp: Smiling face with horns
+1067 :wink: Winking face
+1068 :blush: Smiling face with smiling eyes
+1069 :yum: Face savoring food
+1070 :relieved: Relieved face
+1071 :heart_eyes: Smiling face with heart-eyes
+1072 :sunglasses: Smiling face with sunglasses
+1073 :smirk: Smirking face
+1074 :neutral_face: Neutral face
+1075 :expressionless: Expressionless face
+1076 :unamused: Unamused face
+1077 :sweat: Downcast face with sweat
+1078 :pensive: Pensive face
+1079 :confused: Confused face
+1080 :confounded: Confounded face
+1081 :kissing: Kissing face
+1082 :kissing_heart: Face blowing a kiss
+1083 :kissing_smiling_eyes: Kissing face with smiling eyes
+1084 :kissing_closed_eyes: Kissing face with closed eyes
+1085 :stuck_out_tongue: Face with tongue
+1086 :stuck_out_tongue_winking_eye: Winking face with tongue
+1087 :stuck_out_tongue_closed_eyes: Squinting face with tongue
+1088 :disappointed: Disappointed face
+1089 :worried: Worried face
+1090 :angry: Angry face
+1091 :rage: Enraged face
+1092 :cry: Crying face
+1093 :persevere: Persevering face
+1094 :triumph: Face with steam from nose
+1095 :disappointed_relieved: Sad but relieved face
+1096 :frowning: Frowning face with open mouth
+1097 :anguished: Anguished face
+1098 :fearful: Fearful face
+1099 :weary: Weary face
+1100 :sleepy: Sleepy face
+1101 :tired_face: Tired face
+1102 :grimacing: Grimacing face
+1103 :sob: Loudly crying face
+1104 :open_mouth: Face with open mouth
+1105 :face_exhaling: Face exhaling
+1106 :hushed: Hushed face
+1107 :cold_sweat: Anxious face with sweat
+1108 :scream: Face screaming in fear
+1109 :astonished: Astonished face
+1110 :flushed: Flushed face
+1111 :sleeping: Sleeping face
+1112 :dizzy_face: Face with crossed-out eyes
+1113 :face_with_spiral_eyes: Face with spiral eyes
+1114 :no_mouth: Face without mouth
+1115 :face_in_clouds: Face in clouds
+1116 :mask: Face with medical mask
+1117 :smile_cat: Grinning cat with smiling eyes
+1118 :joy_cat: Cat with tears of joy
+1119 :smiley_cat: Grinning cat
+1120 :heart_eyes_cat: Smiling cat with heart-eyes
+1121 :smirk_cat: Cat with wry smile
+1122 :kissing_cat: Kissing cat
+1123 :pouting_cat: Pouting cat
+1124 :crying_cat_face: Crying cat
+1125 :scream_cat: Weary cat
+1126 :slightly_frowning_face: Slightly frowning face
+1127 :slightly_smiling_face: Slightly smiling face
+1128 :upside_down_face: Upside-down face
+1129 :roll_eyes: Face with rolling eyes
+1130 :no_good: Person gesturing NO
+1131 :no_good_woman: Woman gesturing NO
+1132 :no_good_man: Man gesturing NO
+1133 :ok_person: Person gesturing OK
+1134 :ok_woman: Woman gesturing OK
+1135 :ok_man: Man gesturing OK
+1136 :bow: Person bowing
+1137 :bowing_woman: Woman bowing
+1138 :bowing_man: Man bowing
+1139 :see_no_evil: See-no-evil monkey
+1140 :hear_no_evil: Hear-no-evil monkey
+1141 :speak_no_evil: Speak-no-evil monkey
+1142 :raising_hand: Person raising hand
+1143 :raising_hand_woman: Woman raising hand
+1144 :raising_hand_man: Man raising hand
+1145 :raised_hands: Raising hands
+1146 :frowning_person: Person frowning
+1147 :frowning_woman: Woman frowning
+1148 :frowning_man: Man frowning
+1149 :pouting_face: Person pouting
+1150 :pouting_woman: Woman pouting
+1151 :pouting_man: Man pouting
+1152 :pray: Folded hands
+1153 :rocket: Rocket
+1154 :helicopter: Helicopter
+1155 :steam_locomotive: Locomotive
+1156 :railway_car: Railway car
+1157 :bullettrain_side: High-speed train
+1158 :bullettrain_front: Bullet train
+1159 :train2: Train
+1160 :metro: Metro
+1161 :light_rail: Light rail
+1162 :station: Station
+1163 :tram: Tram
+1164 :train: Tram car
+1165 :bus: Bus
+1166 :oncoming_bus: Oncoming bus
+1167 :trolleybus: Trolleybus
+1168 :busstop: Bus stop
+1169 :minibus: Minibus
+1170 :ambulance: Ambulance
+1171 :fire_engine: Fire engine
+1172 :police_car: Police car
+1173 :oncoming_police_car: Oncoming police car
+1174 :taxi: Taxi
+1175 :oncoming_taxi: Oncoming taxi
+1176 :red_car: Automobile
+1177 :oncoming_automobile: Oncoming automobile
+1178 :blue_car: Sport utility vehicle
+1179 :truck: Delivery truck
+1180 :articulated_lorry: Articulated lorry
+1181 :tractor: Tractor
+1182 :monorail: Monorail
+1183 :mountain_railway: Mountain railway
+1184 :suspension_railway: Suspension railway
+1185 :mountain_cableway: Mountain cableway
+1186 :aerial_tramway: Aerial tramway
+1187 :ship: Ship
+1188 :rowboat: Person rowing boat
+1189 :rowing_woman: Woman rowing boat
+1190 :rowing_man: Man rowing boat
+1191 :speedboat: Speedboat
+1192 :traffic_light: Horizontal traffic light
+1193 :vertical_traffic_light: Vertical traffic light
+1194 :construction: Construction
+1195 :rotating_light: Police car light
+1196 :triangular_flag_on_post: Triangular flag
+1197 :door: Door
+1198 :no_entry_sign: Prohibited
+1199 :smoking: Cigarette
+1200 :no_smoking: No smoking
+1201 :put_litter_in_its_place: Litter in bin sign
+1202 :do_not_litter: No littering
+1203 :potable_water: Potable water
+1204 :non-potable_water: Non-potable water
+1205 :bike: Bicycle
+1206 :no_bicycles: No bicycles
+1207 :bicyclist: Person biking
+1208 :biking_woman: Woman biking
+1209 :biking_man: Man biking
+1210 :mountain_bicyclist: Person mountain biking
+1211 :mountain_biking_woman: Woman mountain biking
+1212 :mountain_biking_man: Man mountain biking
+1213 :walking: Person walking
+1214 :walking_woman: Woman walking
+1215 :walking_man: Man walking
+1216 :no_pedestrians: No pedestrians
+1217 :children_crossing: Children crossing
+1218 :mens: Men’s room
+1219 :womens: Women’s room
+1220 :restroom: Restroom
+1221 :baby_symbol: Baby symbol
+1222 :toilet: Toilet
+1223 :wc: Water closet
+1224 :shower: Shower
+1225 :bath: Person taking bath
+1226 :bathtub: Bathtub
+1227 :passport_control: Passport control
+1228 :customs: Customs
+1229 :baggage_claim: Baggage claim
+1230 :left_luggage: Left luggage
+1231 :couch_and_lamp: Couch and lamp
+1232 :sleeping_bed: Person in bed
+1233 :shopping: Shopping bags
+1234 :bellhop_bell: Bellhop bell
+1235 :bed: Bed
+1236 :place_of_worship: Place of worship
+1237 :stop_sign: Stop sign
+1238 :shopping_cart: Shopping cart
+1239 :hindu_temple: Hindu temple
+1240 :hut: Hut
+1241 :elevator: Elevator
+1242 :hammer_and_wrench: Hammer and wrench
+1243 :shield: Shield
+1244 :oil_drum: Oil drum
+1245 :motorway: Motorway
+1246 :railway_track: Railway track
+1247 :motor_boat: Motor boat
+1248 :small_airplane: Small airplane
+1249 :flight_departure: Airplane departure
+1250 :flight_arrival: Airplane arrival
+1251 :artificial_satellite: Satellite
+1252 :passenger_ship: Passenger ship
+1253 :kick_scooter: Kick scooter
+1254 :motor_scooter: Motor scooter
+1255 :canoe: Canoe
+1256 :sled: Sled
+1257 :flying_saucer: Flying saucer
+1258 :skateboard: Skateboard
+1259 :auto_rickshaw: Auto rickshaw
+1260 :pickup_truck: Pickup truck
+1261 :roller_skate: Roller skate
+1262 :orange_circle: Orange circle
+1263 :yellow_circle: Yellow circle
+1264 :green_circle: Green circle
+1265 :purple_circle: Purple circle
+1266 :brown_circle: Brown circle
+1267 :red_square: Red square
+1268 :blue_square: Blue square
+1269 :orange_square: Orange square
+1270 :yellow_square: Yellow square
+1271 :green_square: Green square
+1272 :purple_square: Purple square
+1273 :brown_square: Brown square
+1274 :pinched_fingers: Pinched fingers
+1275 :white_heart: White heart
+1276 :brown_heart: Brown heart
+1277 :pinching_hand: Pinching hand
+1278 :zipper_mouth_face: Zipper-mouth face
+1279 :money_mouth_face: Money-mouth face
+1280 :face_with_thermometer: Face with thermometer
+1281 :nerd_face: Nerd face
+1282 :thinking: Thinking face
+1283 :face_with_head_bandage: Face with head-bandage
+1284 :robot: Robot
+1285 :hugs: Smiling face with open hands
+1286 :metal: Sign of the horns
+1287 :call_me_hand: Call me hand
+1288 :raised_back_of_hand: Raised back of hand
+1289 :fist_left: Left-facing fist
+1290 :fist_right: Right-facing fist
+1291 :handshake: Handshake
+1292 :crossed_fingers: Crossed fingers
+1293 :love_you_gesture: Love-you gesture
+1294 :cowboy_hat_face: Cowboy hat face
+1295 :clown_face: Clown face
+1296 :nauseated_face: Nauseated face
+1297 :rofl: Rolling on the floor laughing
+1298 :drooling_face: Drooling face
+1299 :lying_face: Lying face
+1300 :facepalm: Person facepalming
+1301 :woman_facepalming: Woman facepalming
+1302 :man_facepalming: Man facepalming
+1303 :sneezing_face: Sneezing face
+1304 :raised_eyebrow: Face with raised eyebrow
+1305 :star_struck: Star-struck
+1306 :zany_face: Zany face
+1307 :shushing_face: Shushing face
+1308 :cursing_face: Face with symbols on mouth
+1309 :hand_over_mouth: Face with hand over mouth
+1310 :vomiting_face: Face vomiting
+1311 :exploding_head: Exploding head
+1312 :pregnant_woman: Pregnant woman
+1313 :breast_feeding: Breast-feeding
+1314 :palms_up_together: Palms up together
+1315 :selfie: Selfie
+1316 :prince: Prince
+1317 :person_in_tuxedo: Person in tuxedo
+1318 :woman_in_tuxedo: Woman in tuxedo
+1319 :man_in_tuxedo: Man in tuxedo
+1320 :mrs_claus: Mrs. Claus
+1321 :shrug: Person shrugging
+1322 :woman_shrugging: Woman shrugging
+1323 :man_shrugging: Man shrugging
+1324 :cartwheeling: Person cartwheeling
+1325 :woman_cartwheeling: Woman cartwheeling
+1326 :man_cartwheeling: Man cartwheeling
+1327 :juggling_person: Person juggling
+1328 :woman_juggling: Woman juggling
+1329 :man_juggling: Man juggling
+1330 :person_fencing: Person fencing
+1331 :wrestling: People wrestling
+1332 :women_wrestling: Women wrestling
+1333 :men_wrestling: Men wrestling
+1334 :water_polo: Person playing water polo
+1335 :woman_playing_water_polo: Woman playing water polo
+1336 :man_playing_water_polo: Man playing water polo
+1337 :handball_person: Person playing handball
+1338 :woman_playing_handball: Woman playing handball
+1339 :man_playing_handball: Man playing handball
+1340 :diving_mask: Diving mask
+1341 :wilted_flower: Wilted flower
+1342 :drum: Drum
+1343 :clinking_glasses: Clinking glasses
+1344 :tumbler_glass: Tumbler glass
+1345 :spoon: Spoon
+1346 :goal_net: Goal net
+1347 :1st_place_medal: 1st place medal
+1348 :2nd_place_medal: 2nd place medal
+1349 :3rd_place_medal: 3rd place medal
+1350 :boxing_glove: Boxing glove
+1351 :martial_arts_uniform: Martial arts uniform
+1352 :curling_stone: Curling stone
+1353 :lacrosse: Lacrosse
+1354 :softball: Softball
+1355 :flying_disc: Flying disc
+1356 :croissant: Croissant
+1357 :avocado: Avocado
+1358 :cucumber: Cucumber
+1359 :bacon: Bacon
+1360 :potato: Potato
+1361 :carrot: Carrot
+1362 :baguette_bread: Baguette bread
+1363 :green_salad: Green salad
+1364 :shallow_pan_of_food: Shallow pan of food
+1365 :stuffed_flatbread: Stuffed flatbread
+1366 :egg: Egg
+1367 :milk_glass: Glass of milk
+1368 :peanuts: Peanuts
+1369 :kiwi_fruit: Kiwi fruit
+1370 :pancakes: Pancakes
+1371 :dumpling: Dumpling
+1372 :fortune_cookie: Fortune cookie
+1373 :takeout_box: Takeout box
+1374 :chopsticks: Chopsticks
+1375 :bowl_with_spoon: Bowl with spoon
+1376 :cup_with_straw: Cup with straw
+1377 :coconut: Coconut
+1378 :broccoli: Broccoli
+1379 :pie: Pie
+1380 :pretzel: Pretzel
+1381 :cut_of_meat: Cut of meat
+1382 :sandwich: Sandwich
+1383 :canned_food: Canned food
+1384 :leafy_green: Leafy green
+1385 :mango: Mango
+1386 :moon_cake: Moon cake
+1387 :bagel: Bagel
+1388 :smiling_face_with_three_hearts: Smiling face with hearts
+1389 :yawning_face: Yawning face
+1390 :smiling_face_with_tear: Smiling face with tear
+1391 :partying_face: Partying face
+1392 :woozy_face: Woozy face
+1393 :hot_face: Hot face
+1394 :cold_face: Cold face
+1395 :ninja: Ninja
+1396 :disguised_face: Disguised face
+1397 :pleading_face: Pleading face
+1398 :sari: Sari
+1399 :lab_coat: Lab coat
+1400 :goggles: Goggles
+1401 :hiking_boot: Hiking boot
+1402 :flat_shoe: Flat shoe
+1403 :crab: Crab
+1404 :lion: Lion
+1405 :scorpion: Scorpion
+1406 :turkey: Turkey
+1407 :unicorn: Unicorn
+1408 :eagle: Eagle
+1409 :duck: Duck
+1410 :bat: Bat
+1411 :shark: Shark
+1412 :owl: Owl
+1413 :fox_face: Fox
+1414 :butterfly: Butterfly
+1415 :deer: Deer
+1416 :gorilla: Gorilla
+1417 :lizard: Lizard
+1418 :rhinoceros: Rhinoceros
+1419 :shrimp: Shrimp
+1420 :squid: Squid
+1421 :giraffe: Giraffe
+1422 :zebra: Zebra
+1423 :hedgehog: Hedgehog
+1424 :sauropod: Sauropod
+1425 :t-rex: T-Rex
+1426 :cricket: Cricket
+1427 :kangaroo: Kangaroo
+1428 :llama: Llama
+1429 :peacock: Peacock
+1430 :hippopotamus: Hippopotamus
+1431 :parrot: Parrot
+1432 :raccoon: Raccoon
+1433 :lobster: Lobster
+1434 :mosquito: Mosquito
+1435 :microbe: Microbe
+1436 :badger: Badger
+1437 :swan: Swan
+1438 :mammoth: Mammoth
+1439 :dodo: Dodo
+1440 :sloth: Sloth
+1441 :otter: Otter
+1442 :orangutan: Orangutan
+1443 :skunk: Skunk
+1444 :flamingo: Flamingo
+1445 :oyster: Oyster
+1446 :beaver: Beaver
+1447 :bison: Bison
+1448 :seal: Seal
+1449 :guide_dog: Guide dog
+1450 :probing_cane: White cane
+1451 :bone: Bone
+1452 :leg: Leg
+1453 :foot: Foot
+1454 :tooth: Tooth
+1455 :superhero: Superhero
+1456 :superhero_woman: Woman superhero
+1457 :superhero_man: Man superhero
+1458 :supervillain: Supervillain
+1459 :supervillain_woman: Woman supervillain
+1460 :supervillain_man: Man supervillain
+1461 :safety_vest: Safety vest
+1462 :ear_with_hearing_aid: Ear with hearing aid
+1463 :motorized_wheelchair: Motorized wheelchair
+1464 :manual_wheelchair: Manual wheelchair
+1465 :mechanical_arm: Mechanical arm
+1466 :mechanical_leg: Mechanical leg
+1467 :cheese: Cheese wedge
+1468 :cupcake: Cupcake
+1469 :salt: Salt
+1470 :beverage_box: Beverage box
+1471 :garlic: Garlic
+1472 :onion: Onion
+1473 :falafel: Falafel
+1474 :waffle: Waffle
+1475 :butter: Butter
+1476 :mate: Mate
+1477 :ice_cube: Ice
+1478 :bubble_tea: Bubble tea
+1479 :standing_person: Person standing
+1480 :standing_woman: Woman standing
+1481 :standing_man: Man standing
+1482 :kneeling_person: Person kneeling
+1483 :kneeling_woman: Woman kneeling
+1484 :kneeling_man: Man kneeling
+1485 :deaf_person: Deaf person
+1486 :deaf_woman: Deaf woman
+1487 :deaf_man: Deaf man
+1488 :monocle_face: Face with monocle
+1489 :adult: Person
+1490 :farmer: Farmer
+1491 :cook: Cook
+1492 :person_feeding_baby: Person feeding baby
+1493 :mx_claus: Mx claus
+1494 :student: Student
+1495 :singer: Singer
+1496 :artist: Artist
+1497 :teacher: Teacher
+1498 :factory_worker: Factory worker
+1499 :technologist: Technologist
+1500 :office_worker: Office worker
+1501 :mechanic: Mechanic
+1502 :scientist: Scientist
+1503 :astronaut: Astronaut
+1504 :firefighter: Firefighter
+1505 :people_holding_hands: People holding hands
+1506 :person_with_probing_cane: Person with white cane
+1507 :person_red_hair: Person: red hair
+1508 :person_curly_hair: Person: curly hair
+1509 :person_bald: Person: bald
+1510 :person_white_hair: Person: white hair
+1511 :person_in_motorized_wheelchair: Person in motorized wheelchair
+1512 :person_in_manual_wheelchair: Person in manual wheelchair
+1513 :health_worker: Health worker
+1514 :judge: Judge
+1515 :pilot: Pilot
+1516 :child: Child
+1517 :older_adult: Older person
+1518 :bearded_person: Person: beard
+1519 :woman_beard: Woman: beard
+1520 :man_beard: Man: beard
+1521 :woman_with_headscarf: Woman with headscarf
+1522 :sauna_person: Person in steamy room
+1523 :sauna_woman: Woman in steamy room
+1524 :sauna_man: Man in steamy room
+1525 :climbing: Person climbing
+1526 :climbing_woman: Woman climbing
+1527 :climbing_man: Man climbing
+1528 :lotus_position: Person in lotus position
+1529 :lotus_position_woman: Woman in lotus position
+1530 :lotus_position_man: Man in lotus position
+1531 :mage: Mage
+1532 :mage_woman: Woman mage
+1533 :mage_man: Man mage
+1534 :fairy: Fairy
+1535 :fairy_woman: Woman fairy
+1536 :fairy_man: Man fairy
+1537 :vampire: Vampire
+1538 :vampire_woman: Woman vampire
+1539 :vampire_man: Man vampire
+1540 :merperson: Merperson
+1541 :mermaid: Mermaid
+1542 :merman: Merman
+1543 :elf: Elf
+1544 :elf_woman: Woman elf
+1545 :elf_man: Man elf
+1546 :genie: Genie
+1547 :genie_woman: Woman genie
+1548 :genie_man: Man genie
+1549 :zombie: Zombie
+1550 :zombie_woman: Woman zombie
+1551 :zombie_man: Man zombie
+1552 :brain: Brain
+1553 :orange_heart: Orange heart
+1554 :billed_cap: Billed cap
+1555 :scarf: Scarf
+1556 :gloves: Gloves
+1557 :coat: Coat
+1558 :socks: Socks
+1559 :red_envelope: Red envelope
+1560 :firecracker: Firecracker
+1561 :jigsaw: Puzzle piece
+1562 :test_tube: Test tube
+1563 :petri_dish: Petri dish
+1564 :dna: Dna
+1565 :compass: Compass
+1566 :abacus: Abacus
+1567 :fire_extinguisher: Fire extinguisher
+1568 :toolbox: Toolbox
+1569 :bricks: Brick
+1570 :magnet: Magnet
+1571 :luggage: Luggage
+1572 :lotion_bottle: Lotion bottle
+1573 :thread: Thread
+1574 :yarn: Yarn
+1575 :safety_pin: Safety pin
+1576 :teddy_bear: Teddy bear
+1577 :broom: Broom
+1578 :basket: Basket
+1579 :roll_of_paper: Roll of paper
+1580 :soap: Soap
+1581 :sponge: Sponge
+1582 :receipt: Receipt
+1583 :nazar_amulet: Nazar amulet
+1584 :ballet_shoes: Ballet shoes
+1585 :one_piece_swimsuit: One-piece swimsuit
+1586 :swim_brief: Briefs
+1587 :shorts: Shorts
+1588 :thong_sandal: Thong sandal
+1589 :drop_of_blood: Drop of blood
+1590 :adhesive_bandage: Adhesive bandage
+1591 :stethoscope: Stethoscope
+1592 :yo_yo: Yo-yo
+1593 :kite: Kite
+1594 :parachute: Parachute
+1595 :boomerang: Boomerang
+1596 :magic_wand: Magic wand
+1597 :pinata: Piñata
+1598 :nesting_dolls: Nesting dolls
+1599 :ringed_planet: Ringed planet
+1600 :chair: Chair
+1601 :razor: Razor
+1602 :axe: Axe
+1603 :diya_lamp: Diya lamp
+1604 :banjo: Banjo
+1605 :military_helmet: Military helmet
+1606 :accordion: Accordion
+1607 :long_drum: Long drum
+1608 :coin: Coin
+1609 :carpentry_saw: Carpentry saw
+1610 :screwdriver: Screwdriver
+1611 :ladder: Ladder
+1612 :hook: Hook
+1613 :mirror: Mirror
+1614 :window: Window
+1615 :plunger: Plunger
+1616 :sewing_needle: Sewing needle
+1617 :knot: Knot
+1618 :bucket: Bucket
+1619 :mouse_trap: Mouse trap
+1620 :toothbrush: Toothbrush
+1621 :headstone: Headstone
+1622 :placard: Placard
+1623 :rock: Rock
+1624 :fly: Fly
+1625 :worm: Worm
+1626 :beetle: Beetle
+1627 :cockroach: Cockroach
+1628 :potted_plant: Potted plant
+1629 :wood: Wood
+1630 :feather: Feather
+1631 :anatomical_heart: Anatomical heart
+1632 :lungs: Lungs
+1633 :people_hugging: People hugging
+1634 :blueberries: Blueberries
+1635 :bell_pepper: Bell pepper
+1636 :olive: Olive
+1637 :flatbread: Flatbread
+1638 :tamale: Tamale
+1639 :fondue: Fondue
+1640 :teapot: Teapot
+1641 :bangbang: Double exclamation mark
+1642 :interrobang: Exclamation question mark
+1643 :tm: Trade mark
+1644 :information_source: Information
+1645 :left_right_arrow: Left-right arrow
+1646 :arrow_up_down: Up-down arrow
+1647 :arrow_upper_left: Up-left arrow
+1648 :arrow_upper_right: Up-right arrow
+1649 :arrow_lower_right: Down-right arrow
+1650 :arrow_lower_left: Down-left arrow
+1651 :leftwards_arrow_with_hook: Right arrow curving left
+1652 :arrow_right_hook: Left arrow curving right
+1653 :watch: Watch
+1654 :hourglass: Hourglass done
+1655 :keyboard: Keyboard
+1656 :eject_button: Eject button
+1657 :fast_forward: Fast-forward button
+1658 :rewind: Fast reverse button
+1659 :arrow_double_up: Fast up button
+1660 :arrow_double_down: Fast down button
+1661 :next_track_button: Next track button
+1662 :previous_track_button: Last track button
+1663 :play_or_pause_button: Play or pause button
+1664 :alarm_clock: Alarm clock
+1665 :stopwatch: Stopwatch
+1666 :timer_clock: Timer clock
+1667 :hourglass_flowing_sand: Hourglass not done
+1668 :pause_button: Pause button
+1669 :stop_button: Stop button
+1670 :record_button: Record button
+1671 :m: Circled M
+1672 :black_small_square: Black small square
+1673 :white_small_square: White small square
+1674 :arrow_forward: Play button
+1675 :arrow_backward: Reverse button
+1676 :white_medium_square: White medium square
+1677 :black_medium_square: Black medium square
+1678 :white_medium_small_square: White medium-small square
+1679 :black_medium_small_square: Black medium-small square
+1680 :sunny: Sun
+1681 :cloud: Cloud
+1682 :open_umbrella: Umbrella
+1683 :snowman_with_snow: Snowman
+1684 :comet: Comet
+1685 :telephone: Telephone
+1686 :ballot_box_with_check: Check box with check
+1687 :umbrella: Umbrella with rain drops
+1688 :coffee: Hot beverage
+1689 :shamrock: Shamrock
+1690 :point_up: Index pointing up
+1691 :skull_and_crossbones: Skull and crossbones
+1692 :radioactive: Radioactive
+1693 :biohazard: Biohazard
+1694 :orthodox_cross: Orthodox cross
+1695 :star_and_crescent: Star and crescent
+1696 :peace_symbol: Peace symbol
+1697 :yin_yang: Yin yang
+1698 :wheel_of_dharma: Wheel of dharma
+1699 :frowning_face: Frowning face
+1700 :relaxed: Smiling face
+1701 :female_sign: Female sign
+1702 :male_sign: Male sign
+1703 :aries: Aries
+1704 :taurus: Taurus
+1705 :gemini: Gemini
+1706 :cancer: Cancer
+1707 :leo: Leo
+1708 :virgo: Virgo
+1709 :libra: Libra
+1710 :scorpius: Scorpio
+1711 :sagittarius: Sagittarius
+1712 :capricorn: Capricorn
+1713 :aquarius: Aquarius
+1714 :pisces: Pisces
+1715 :chess_pawn: Chess pawn
+1716 :spades: Spade suit
+1717 :clubs: Club suit
+1718 :hearts: Heart suit
+1719 :diamonds: Diamond suit
+1720 :hotsprings: Hot springs
+1721 :recycle: Recycling symbol
+1722 :infinity: Infinity
+1723 :wheelchair: Wheelchair symbol
+1724 :hammer_and_pick: Hammer and pick
+1725 :anchor: Anchor
+1726 :crossed_swords: Crossed swords
+1727 :medical_symbol: Medical symbol
+1728 :balance_scale: Balance scale
+1729 :alembic: Alembic
+1730 :gear: Gear
+1731 :atom_symbol: Atom symbol
+1732 :fleur_de_lis: Fleur-de-lis
+1733 :warning: Warning
+1734 :zap: High voltage
+1735 :transgender_symbol: Transgender symbol
+1736 :white_circle: White circle
+1737 :black_circle: Black circle
+1738 :coffin: Coffin
+1739 :funeral_urn: Funeral urn
+1740 :soccer: Soccer ball
+1741 :baseball: Baseball
+1742 :snowman: Snowman without snow
+1743 :partly_sunny: Sun behind cloud
+1744 :cloud_with_lightning_and_rain: Cloud with lightning and rain
+1745 :ophiuchus: Ophiuchus
+1746 :pick: Pick
+1747 :rescue_worker_helmet: Rescue worker’s helmet
+1748 :chains: Chains
+1749 :no_entry: No entry
+1750 :shinto_shrine: Shinto shrine
+1751 :church: Church
+1752 :mountain: Mountain
+1753 :parasol_on_ground: Umbrella on ground
+1754 :fountain: Fountain
+1755 :golf: Flag in hole
+1756 :ferry: Ferry
+1757 :sailboat: Sailboat
+1758 :skier: Skier
+1759 :ice_skate: Ice skate
+1760 :bouncing_ball_person: Person bouncing ball
+1761 :basketball_woman: Woman bouncing ball
+1762 :basketball_man: Man bouncing ball
+1763 :tent: Tent
+1764 :fuelpump: Fuel pump
+1765 :scissors: Scissors
+1766 :white_check_mark: Check mark button
+1767 :airplane: Airplane
+1768 :envelope: Envelope
+1769 :fist_raised: Raised fist
+1770 :raised_hand: Raised hand
+1771 :v: Victory hand
+1772 :writing_hand: Writing hand
+1773 :pencil2: Pencil
+1774 :black_nib: Black nib
+1775 :heavy_check_mark: Check mark
+1776 :heavy_multiplication_x: Multiply
+1777 :latin_cross: Latin cross
+1778 :star_of_david: Star of David
+1779 :sparkles: Sparkles
+1780 :eight_spoked_asterisk: Eight-spoked asterisk
+1781 :eight_pointed_black_star: Eight-pointed star
+1782 :snowflake: Snowflake
+1783 :sparkle: Sparkle
+1784 :x: Cross mark
+1785 :negative_squared_cross_mark: Cross mark button
+1786 :question: Red question mark
+1787 :grey_question: White question mark
+1788 :grey_exclamation: White exclamation mark
+1789 :heavy_exclamation_mark: Red exclamation mark
+1790 :heavy_heart_exclamation: Heart exclamation
+1791 :heart: Red heart
+1792 :heart_on_fire: Heart on fire
+1793 :mending_heart: Mending heart
+1794 :heavy_plus_sign: Plus
+1795 :heavy_minus_sign: Minus
+1796 :heavy_division_sign: Divide
+1797 :arrow_right: Right arrow
+1798 :curly_loop: Curly loop
+1799 :loop: Double curly loop
+1800 :arrow_heading_up: Right arrow curving up
+1801 :arrow_heading_down: Right arrow curving down
+1802 :arrow_left: Left arrow
+1803 :arrow_up: Up arrow
+1804 :arrow_down: Down arrow
+1805 :black_large_square: Black large square
+1806 :white_large_square: White large square
+1807 :star: Star
+1808 :o: Hollow red circle
+1809 :wavy_dash: Wavy dash
+1810 :part_alternation_mark: Part alternation mark
+1811 :congratulations: Japanese “congratulations” button
+1812 :secret: Japanese “secret” button
+1813 :atom: Atom
+1814 :basecamp: Basecamp
+1815 :basecampy: Basecampy
+1816 :bowtie: Bowtie
+1817 :electron: Electron
+1818 :feelsgood: Feelsgood
+1819 :finnadie: Finnadie
+1820 :goberserk: Goberserk
+1821 :godmode: Godmode
+1822 :hurtrealbad: Hurtrealbad
+1823 :neckbeard: Neckbeard
+1824 :octocat: Octocat
+1825 :rage1: Rage1
+1826 :rage2: Rage2
+1827 :rage3: Rage3
+1828 :rage4: Rage4
+1829 :shipit: Shipit
+1830 :suspect: Suspect
+1831 :trollface: Trollface
